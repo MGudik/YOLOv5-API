@@ -1,0 +1,9 @@
+{
+    "id": "M5YC3T",
+    "name": "yolo-api",
+    "containerName": "emily-yolo-api-m5yc3t",
+    "image": "torch-cv",
+    "imageVersion": "1.0.0",
+    "emilyVersion": "1.2.5",
+    "mountTargets": []
+}
