@@ -1,11 +1,11 @@
-# Yolo-API
+# YOLOv5 Object detection API.
 
 ```
 git clone https://github.com/MGudik/Yolo-API.git
 ```
 
 ```
-cd Yolo-API
+cd YOLOv5-API
 emily open .
 ```
 
